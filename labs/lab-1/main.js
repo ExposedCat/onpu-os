@@ -92,15 +92,15 @@ function initiateExperience() {
 		const modes = ['image', 'image', 'image']
 		const modelFiles = ['', '', '']
 		const imageFiles = [
-			'os-lab-1-marker1.png',
-			'os-lab-1-marker2.png',
-			'os-lab-1-marker3.jpg'
+			'./data/os-lab-1-marker1.png',
+			'./data/os-lab-1-marker2.png',
+			'./data/os-lab-1-marker3.jpg'
 		]
 		const videoFiles = ['', '', '']
 		const audioFiles = [
-			'mixkit-cartoon-kitty-begging-meow-92.wav',
-			'mixkit-sweet-kitty-meow-93.wav',
-			'mixkit-angry-cartoon-kitty-meow-94.wav'
+			'./data/mixkit-cartoon-kitty-begging-meow-92.wav',
+			'./data/mixkit-sweet-kitty-meow-93.wav',
+			'./data/mixkit-angry-cartoon-kitty-meow-94.wav'
 		]
 		const repeatOptions = ['false', 'false', 'false']
 
