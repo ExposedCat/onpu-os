@@ -88,9 +88,9 @@ function initiateExperience() {
 		mainContainer = new THREE.Group()
 
 		const patternNames = [
-			'./barcodes/01.png',
-			'./barcodes/02.png',
-			'./barcodes/03.png'
+			'./barcodes/pattern-01.patt',
+			'./barcodes/pattern-02.patt',
+			'./barcodes/pattern-03.patt'
 		]
 		const patternBarcode = [-1, -1, -1]
 		const modes = ['image', 'image', 'image']
