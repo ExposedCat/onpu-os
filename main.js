@@ -87,20 +87,24 @@ function initiateExperience() {
 
 		mainContainer = new THREE.Group()
 
-		const patternNames = ['', '', '']
-		const patternBarcode = [1, 2, 3]
+		const patternNames = [
+			'./barcodes/01.png',
+			'./barcodes/02.png',
+			'./barcodes/03.png'
+		]
+		const patternBarcode = [-1, -1, -1]
 		const modes = ['image', 'image', 'image']
 		const modelFiles = ['', '', '']
 		const imageFiles = [
-			'./data/os-lab-1-marker1.png',
-			'./data/os-lab-1-marker2.png',
-			'./data/os-lab-1-marker3.jpg'
+			'./data/images/os-lab-1-marker1.png',
+			'./data/images/os-lab-1-marker2.png',
+			'./data/images/os-lab-1-marker3.jpg'
 		]
 		const videoFiles = ['', '', '']
 		const audioFiles = [
-			'./data/mixkit-cartoon-kitty-begging-meow-92.wav',
-			'./data/mixkit-sweet-kitty-meow-93.wav',
-			'./data/mixkit-angry-cartoon-kitty-meow-94.wav'
+			'./data/audio/mixkit-cartoon-kitty-begging-meow-92.wav',
+			'./data/audio/mixkit-sweet-kitty-meow-93.wav',
+			'./data/audio/mixkit-angry-cartoon-kitty-meow-94.wav'
 		]
 		const repeatOptions = ['false', 'false', 'false']
 
