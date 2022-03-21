@@ -90,7 +90,7 @@ function initiateExperience() {
 		const patternNames = [
 			'./barcodes/pattern-01.patt',
 			'./barcodes/pattern-02.patt',
-			'./barcodes/pattern-03.patt'
+			'./barcodes/cat.patt'
 		]
 		const patternBarcode = [-1, -1, -1]
 		const modes = ['image', 'image', 'image']
