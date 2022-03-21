@@ -11,7 +11,7 @@ The booklet was created as a result of laboratory work on the course «Operating
 <b>Project team</b>:  
 <ol>
     <li>Prokop A.S., student, AI-212</li>
-    <li>Blazhko O.A., Associate Professor in the Department of Information System of State University «Odessa Polytechnic»</li>
+    <li>Blazhko O.A., Associate Professor in the Department of Information Systems of State University «Odessa Polytechnic»</li>
     <li>Unknown cute cat</li>
 </ol>
 <img src="https://fotovmire.ru/wp-content/uploads/2019/03/11806/kot-polozhil-mordu-na-stol.jpg" alt="Definitely required here cat">
