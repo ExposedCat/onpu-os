@@ -1,7 +1,24 @@
-## ONPU Operating Systems, CS, Lab 1 [![Visits Badge](https://badges.pufler.dev/visits/exposedcat/onpu-os-lab-1)](https://github.com/ExposedCat/onpu-os-lab-1)  
+## ONPU Operating Systems, CS, Labs 1-2 [![Visits Badge](https://badges.pufler.dev/visits/exposedcat/onpu-os-lab-1)](https://github.com/ExposedCat/onpu-os-lab-1)  
 Variant: **2**  
 
-## Creating copy
+<br>
+<hr>
+<h2>⭐️ Lab 2</h2>
+<hr>
+<h1><i>WebAR</i>-booklet «Pascal Calculator»</h1>
+The booklet was created as a result of laboratory work on the course «Operating Systems»  
+
+<b>Project team</b>:  
+<ol>
+    <li>Prokop A.S., student, AI-212</li>
+    <li>Blazhko O.A., Associate Professor in the Department of Information System of State University «Odessa Polytechnic»</li>
+    <li>Unknown cute cat</li>
+</ol>
+<img src="https://fotovmire.ru/wp-content/uploads/2019/03/11806/kot-polozhil-mordu-na-stol.jpg" alt="Definitely required here cat">
+
+---
+## ⭐️ Creating copy
+---
 1. Generate markers  
 1.1. Go to [markers generator](https://au.gmented.com/app/marker/marker.php)  
 1.2. Set `Add a quiet zone around marker (of same size as border)` to `true`  
