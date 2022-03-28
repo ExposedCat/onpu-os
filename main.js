@@ -102,9 +102,9 @@ function initiateExperience() {
 		]
 		const videoFiles = ['', '', '']
 		const audioFiles = [
-			'./data/audio/mixkit-cartoon-kitty-begging-meow-92.wav',
-			'./data/audio/mixkit-sweet-kitty-meow-93.wav',
-			'./data/audio/mixkit-angry-cartoon-kitty-meow-94.wav'
+			'./data/audio/1.mp3',
+			'./data/audio/2.mp3',
+			'./data/audio/3.mp3'
 		]
 		const repeatOptions = ['false', 'false', 'false']
 
