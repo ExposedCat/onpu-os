@@ -1,0 +1,2 @@
+drwxr-xr-x@ - exposedcat 10 Apr 14:04  .git
+.rw-r--r--@ 0 exposedcat 10 Apr 14:04  file_list.txt
