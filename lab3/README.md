@@ -1,4 +1,4 @@
-## ONPU Operating Systems, CS, Lab 3 [![Visits Badge](https://badges.pufler.dev/visits/exposedcat/onpu-os-lab-3)](https://github.com/ExposedCat/onpu-os-lab-3)  
+## ONPU Operating Systems, CS, Lab 3 [![Visits Badge](https://badges.pufler.dev/visits/exposedcat/onpu-os-labs)](https://github.com/ExposedCat/onpu-os-labs)  
 Variant: **2**  
 
 <br>
